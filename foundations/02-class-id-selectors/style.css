@@ -1,0 +1,16 @@
+
+.bg{
+    background-color: rgb(255, 142, 204);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#one{
+    color:rgb(81, 81, 255);
+    font-size:36px;
+}
+#two{
+    background-color: #c5f892;
+    font-weight: bold;
+}
+.para2, #two{
+    font-size: 24px;
+}
